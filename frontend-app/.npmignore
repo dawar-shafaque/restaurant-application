@@ -1,0 +1,8 @@
+/*
+!build/
+!node/app/
+node/app/.npm/
+!package.json
+!README*
+!CHANGELOG*
+!LICENSE*
